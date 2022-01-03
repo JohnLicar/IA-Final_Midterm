@@ -14,7 +14,7 @@
 - run command 
     - "composer install"
     - "npm install"
-    - "cp .evn.example .env"
+    - "cp .env.example .env"
     - "php artisan key:generate"
 - create a database named "todo"
 - un command
