@@ -12,13 +12,13 @@
 
 - Clone the repo
 - run command 
-    "composer install"
-    "npm install"
-    "cp .evn.example .env"
-    "php artisan key:generate"
+    - "composer install"
+    - "npm install"
+    - "cp .evn.example .env"
+    - "php artisan key:generate"
 - create a database named "todo"
 - un command
-    "php artisan migrate"
+    - "php artisan migrate"
 - run command to serve the system
-    "php artisan serve"
+    - "php artisan serve"
 - open the system in http://127.0.0.1:8000/
