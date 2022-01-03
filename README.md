@@ -67,17 +67,17 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 
-Installation
+## Installation
 
-*Clone the repo
-*run command 
+- Clone the repo
+- run command 
     "composer install"
     "npm install"
     "cp .evn.example .env"
     "php artisan key:generate"
-*create a database named "todo"
-*run command
+- create a database named "todo"
+- un command
     "php artisan migrate"
-*run command to serve the system
+- run command to serve the system
     "php artisan serve"
-*open the system in http://127.0.0.1:8000/
+- open the system in http://127.0.0.1:8000/
